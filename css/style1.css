@@ -5,9 +5,10 @@
 
 
 body {
-	/*max-width: 996px;
+	font-family: 'Marcellus', serif;
+	max-width: 996px;
 	margin: 0 auto;
-	padding: 0;*/
+	padding: 0;
 	background-color: #a08462; 
 	background-image: url("../images/fur.png");
 	color: #794a28;
@@ -19,7 +20,13 @@ body {
 	text-align: center; 
 	}
 
+h1 {
+	margin: 0;
+	text-indent: -990000px;	
+	}
+
 h2, h3, h4 {
+	font-family: 'Caesar Dressing', cursive;
 	color: #133062;
 	font-size: 1.8em;
 	text-align: center;
@@ -43,11 +50,6 @@ footer {
 
 header {
 	background-color: #aaacb1;
-	}
-
-h1 {
-	margin: 0;
-	text-indent: -990000px;	
 	}
 
 
