@@ -3,20 +3,18 @@
 /*=======all content===========*/
 
 
+
 body {
+	padding: 0;
 	background-color: #a08462; 
 	background-image: url("../images/fur.png");
 	}
 	
-.container {
-	background-color: red;
-	}
-
-
 
 
 footer {
 	background-color: #133062;
+	
 	}
 
 
@@ -25,11 +23,37 @@ footer {
 header {
 	background-color: #aaacb1;
 	}
+
 h1 {
 	margin: 0;
 	text-indent: -990000px;	
 	}
 
+
+header img {
+	margin-top: -50px;
+	}
+	
+header a:link {
+	padding-top: 50px;
+	text-decoration: none; 
+	color: #133062;  
+	outline: none;	
+} 
+
+header a:visited {
+	color: #133062; 
+}
+
+header a:hover {
+	color: #794a28;
+	text-decoration: underline; 
+}
+
+header a:active {
+	color: #133062; 
+}	
+	
 
 .topnav li {
 		display: inline
