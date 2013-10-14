@@ -1,9 +1,32 @@
+/*========style for wsp Ecotic Animal=========*/
+
+/*=======all content===========*/
+
+
+body {
+	background-image: url(images/fur.png);
+	}
+	
+.wrapper {
+	color: "";
+	}
+
+
+
+
+
+/*========Header============*/
+
+
+h1 {
+	margin: 0;
+	text-indent: -990000px;	
+	}
 
 
 .topnav li {
 		display: inline
 	}
-	
 	
 nav ul ul {
 	display: none;
@@ -12,3 +35,23 @@ nav ul ul {
 nav ul li:hover > ul {
 		display: block;
 		
+
+
+
+
+
+
+
+/*==========Main Content=========*/
+
+
+
+
+
+
+
+
+
+
+
+/*==========footer================*/
