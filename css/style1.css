@@ -5,12 +5,16 @@
 
 
 body {
+	max-width: 996px;
+	margin: 0 auto;
 	padding: 0;
 	background-color: #a08462; 
 	background-image: url("../images/fur.png");
 	}
 	
-
+.container {
+		background-color: rgba(170, 172, 178, 0.8);
+	}
 
 footer { 
 	color: #aaacb1;
