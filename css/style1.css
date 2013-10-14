@@ -4,20 +4,27 @@
 
 
 body {
-	background-image: url(images/fur.png);
+	background-color: #a08462; 
+	background-image: url("../images/fur.png");
 	}
 	
-.wrapper {
-	color: "";
+.container {
+	background-color: red;
 	}
 
 
 
+
+footer {
+	background-color: #133062;
+	}
 
 
 /*========Header============*/
 
-
+header {
+	background-color: #aaacb1;
+	}
 h1 {
 	margin: 0;
 	text-indent: -990000px;	
@@ -43,8 +50,6 @@ nav ul li:hover > ul {
 
 
 /*==========Main Content=========*/
-
-
 
 
 
