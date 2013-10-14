@@ -12,7 +12,9 @@ body {
 	
 
 
-footer {
+footer { 
+	padding-top: 35px;
+	padding-bottom: 15px;
 	background-color: #133062;
 	
 	}
