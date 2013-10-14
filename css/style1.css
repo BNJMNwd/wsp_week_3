@@ -2,8 +2,6 @@
 
 /*=======all content===========*/
 
-
-
 body {
 	font-family: 'Marcellus', serif;
 	max-width: 996px;
@@ -36,13 +34,14 @@ h2, h3, h4 {
 		background-color: rgba(170, 172, 178, 0.8);
 	}
 
+	
+
 footer { 
 	color: #aaacb1;
 	padding-top: 35px;
 	padding-bottom: 15px;
 	padding-left, padding-right: 20px;
 	background-color: #133062;
-	
 	}
 
 
