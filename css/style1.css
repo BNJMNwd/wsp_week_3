@@ -5,11 +5,23 @@
 
 
 body {
-	max-width: 996px;
+	/*max-width: 996px;
 	margin: 0 auto;
-	padding: 0;
+	padding: 0;*/
 	background-color: #a08462; 
 	background-image: url("../images/fur.png");
+	color: #794a28;
+	}
+
+.pcenter {
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center; 
+	}
+
+h2, h3, h4 {
+	color: #133062;
+	font-size: 1.8em;
 	}
 	
 .container {
